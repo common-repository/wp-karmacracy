@@ -1,0 +1,25 @@
+/*CONFIGURE WIDGET*/
+.cw p {margin-bottom:6px; color:#8a8a8a; text-align:left;}
+
+.cw-type li {float:left; width:170px; font-size:13px; color:#666; margin-bottom:16px;}
+.cw-size li {width:400px; margin-bottom:16px; font-size:13px; color:#666;}
+.cw-size li input {cursor: pointer; border: 1px solid #CCC; margin: 0; font-size:14px; padding:7px; color:#666;}
+#cw-appearance .t-section {margin-bottom: 1em;}
+#cw-appearance .t-unit {position: relative;}
+.t-unit .t-unit .t-unit .t-tpl-50-50 .t-first, .t-unit .t-unit .t-tpl-50-50 .t-first, .t-unit .t-tpl-50-50 .t-first, .t-tpl-50-50 .t-first {width: 20%;float: left;display: inline;margin: 0;}
+.t-section, .t-unit {zoom: 1;}
+.t-section::after {content: ".";display: block;height: 0;clear: both;visibility: hidden;}
+input.widget-colors {width: 80px; background: white;cursor: pointer; border: 1px solid #CCC; display: block; margin: 0;}
+input.text {width: 80px;padding: 7px;font-size: 13px;border: 1px solid #BBB;margin-bottom: 5px;color: #666;}
+#cw-appearance b {width: 16px;height: 16px;display: block;border: 1px solid #999;
+position: absolute;left: 110px;top: 5px;cursor: pointer;}
+form span {font-size: 11px;color: #666;}
+
+.cw-button p {padding:8px 0;}
+
+.cw-code {float:left; width:400px;}
+.cw-code p {}
+.cw-code p textarea {width:390px; height:240px; padding:7px; font-size:12px; border:1px solid #e0e0e0; resize:none;}
+.cw-explain {float:left; width:255px; margin-left:20px; padding-bottom:10px;background:#f2f2f2; text-shadow:#fff 1px 1px;}
+.cw-explain h5 {font-size:1.2em; color:#333; padding:10px 0 0 6px;}
+.cw-explain li {font-size:13px; color:#666; padding:10px 6px 0 6px;}

@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Karmacracy 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-22 16:39+0100\n"
+"PO-Revision-Date: 2011-06-22 16:55+0100\n"
+"Last-Translator: Alberto Varela <alberto@berriart.com>\n"
+"Language-Team: Berriart <alberto@berriart.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /var/www/berriart.2/wp-content/plugins/wp-karmacracy\n"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-share-post.php:41
+#, php-format
+msgid "I just published %s"
+msgstr "Acabo de publicar %s"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:16
+msgid "WP Karmacracy is almost ready."
+msgstr "WP Karmacracy esta casi listo."
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:16
+#, php-format
+msgid "You must <a href=\"%1$s\">enter your Karmacracy credentials</a> for it to work."
+msgstr "Tienes que <a href=\"%1$s\">introducir tus credenciales de Karmacracy</a> para que funcione correctamente."
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:55
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:81
+msgid "Karmacracy API error. Check your API key or try again later."
+msgstr "Error de la API de Karmacracy. Comprueba tu clave de la API y prueba dentro de un ratito."
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:153
+msgid "Top words"
+msgstr "Top words"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:172
+msgid "My <strong>kcyrank</strong>"
+msgstr "Mi <strong>kcyrank</strong>"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:174
+msgid "Global karma position:"
+msgstr "Global karma position:"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:181
+msgid "Total <strong>Kcys</strong>"
+msgstr "<strong>Kcys</strong> totales"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:182
+msgid "Total <strong>Domains</strong>"
+msgstr "<strong>Dominios</strong> totales"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:183
+msgid "Total <strong>Kclicks</strong>"
+msgstr "<strong>Kclicks</strong> totales"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:184
+msgid "Total <strong>Nuts</strong>"
+msgstr "<strong>Nuts</strong> totales"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:185
+msgid "My <strong>Circle</strong>"
+msgstr "Mi <strong>Círculo</strong>"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:186
+msgid "My <strong>KOI</strong>"
+msgstr "Mi <strong>KOI</strong>"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:207
+#, php-format
+msgid "kcy created on %s"
+msgstr "kcy hecha el %s"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:207
+msgid "l, jS \\of F \\of Y \\a\\t H:i:s"
+msgstr "l, j \\d\\e F \\d\\e Y \\a \\l\\a\\s H:i:s"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:209
+msgid "kcy details"
+msgstr "detalles"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:209
+msgid "details"
+msgstr "detalles"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:210
+msgid "new kcy or share this kcy"
+msgstr "nueva kcy o compartir esta kcy"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:210
+msgid "share"
+msgstr "compartir"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:211
+msgid "kcy stats"
+msgstr "estadísticas"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:211
+msgid "stats"
+msgstr "estadísticas"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-dashboard-widget.php:220
+msgid "View all"
+msgstr "Ver todas"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:60
+msgid "URL cannot be blank"
+msgstr "El campo URL no puede estar vacio"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:62
+msgid "Text cannot be blank"
+msgstr "El campo texto no puede estar vacio"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:78
+msgid "Unable to retrieve short URL"
+msgstr "No podemos obtener la URL acortada"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:88
+msgid "Unable to retrieve short URL, try again later."
+msgstr "No podemos obtener la URL acortada, prueba más tarde."
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:103
+msgid "Insert Karmacracy Link"
+msgstr "Insertar link de Karmacracy"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:144
+msgid "Your Karmacracy API credentials have not been verified"
+msgstr "Tus credenciales de la API de Karmacracy no se han verificado"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:151
+msgid "New Kcy Link"
+msgstr "Nuevo link de Karmacracy"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:155
+msgid "Long URL (Required)"
+msgstr "URL larga (requerido)"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:158
+msgid "The URL that you want to share in a short way."
+msgstr "La URL que quieres acortar."
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:162
+msgid "Text (Required)"
+msgstr "Texto (requerido)"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:165
+msgid "The anchor text of the link."
+msgstr "El texto que aparecerá enlazado."
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:202
+msgid "Add Karmacracy Link"
+msgstr "Añadir link de Karmacracy"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:418
+msgid "Unable to connect to your Karmacracy API.  Please check your settings or try again later."
+msgstr "No nos podemos conectar a la API de Karmacracy. Comprueba tu configuración o prueba más tarde."
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:423
+msgid "Settings Saved"
+msgstr "Opciones guardadas"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:430
+msgid "WP Karmacracy Settings"
+msgstr "Opciones de WP Karmacracy"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:436
+msgid "Karmacracy Login (Username)"
+msgstr "Login de Karmacracy (nombre de usuario)"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:442
+msgid "Karmacracy Third Party Key (appkey)"
+msgstr "Clave de terceros de Karmacracy (appkey)"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:445
+msgid "You can check your key in the following link:"
+msgstr "Puedes obtener la clave en este enlace:"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:449
+msgid "Post updates to your twitter or FB account when you create a fresh post."
+msgstr "Compartir en FB y Twitter mis nuevos posts."
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:454
+msgid "Configure your share options in Karmacracy first if you haven't done it yet"
+msgstr "Configura primero, si no lo has hecho aún, tus redes en Karmacracy para poder compartir tus posts automáticamente"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:464
+msgid "You can invite me for a coffee"
+msgstr "Puedes invitarme a un café"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:474
+msgid "Do you like this plugin? Have you used it? Have you enjoy it? Althought the plugin is free, if you answer yes to one of this questions, I'd appreciate you invite me for a coffee."
+msgstr "¿Te gusta este plugin? ¿Lo has usado? ¿Te ha gustado? Aunque el plugin sea gratuito, si has respondido que sí a alguna de las anteriores preguntas, estaría agradecido si me invitas a un café o una caña ;)"
+
+#: /var/www/berriart.2/wp-content/plugins/wp-karmacracy/karmacracy-insert-link.php:475
+msgid "I also develop other plugins & themes:"
+msgstr "También he desarrollado otros plugins y themes:"
+

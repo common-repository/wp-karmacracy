@@ -1,0 +1,167 @@
+.kcycolorpicker {
+    background: url("../images/colorpicker/custom_background.png") repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #CCCCCC;
+    display: none;
+    height: 176px;
+    overflow: hidden;
+    position: absolute;
+    width: 286px;
+    z-index: 9999;
+}
+.ie6 .kcycolorpicker {
+    background: none repeat scroll 0 0 #FFFFFF;
+}
+.kcycolorpicker_color {
+    background: none repeat scroll 0 0 #FF0000;
+    cursor: crosshair;
+    height: 150px;
+    left: 14px;
+    overflow: hidden;
+    position: absolute;
+    top: 13px;
+    width: 150px;
+}
+.kcycolorpicker_color div {
+    background: url("../images/colorpicker/colorpicker_overlay.png") repeat scroll 0 0 transparent;
+    height: 150px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 150px;
+}
+.ie6 .kcycolorpicker_color div {
+    background: none repeat scroll 0 0 transparent;
+}
+.kcycolorpicker_color div div {
+    background: url("../images/colorpicker/colorpicker_select.gif") repeat scroll 0 0 transparent;
+    height: 11px;
+    left: 0;
+    margin: -5px 0 0 -5px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 11px;
+}
+.ie6 .kcycolorpicker_color div div {
+    background: url("../images/colorpicker/colorpicker_select.gif") repeat scroll 0 0 transparent;
+    filter: none;
+}
+.kcycolorpicker_hue {
+    cursor: n-resize;
+    height: 150px;
+    left: 171px;
+    position: absolute;
+    top: 13px;
+    width: 35px;
+}
+.kcycolorpicker_hue div {
+    background: url("../images/colorpicker/colorpicker_indic.gif") repeat scroll left top transparent;
+    height: 9px;
+    left: 0;
+    margin: -4px 0 0;
+    overflow: hidden;
+    position: absolute;
+    width: 35px;
+}
+.kcycolorpicker_new_color {
+    display: none;
+}
+.kcycolorpicker_current_color {
+    background: none repeat scroll 0 0 #FF0000;
+    display: none;
+    height: 30px;
+    left: 283px;
+    position: absolute;
+    top: 13px;
+    width: 60px;
+}
+.kcycolorpicker input {
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    font-family: "lucida grande",helvetica,arial,sans-serif;
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+}
+.kcycolorpicker_hex {
+    height: 22px;
+    left: auto !important;
+    position: absolute;
+    right: 15px;
+    top: 9px;
+    width: 58px;
+}
+.ie6 input.picker_hex {
+    font-size: 10px;
+}
+.kcycolorpicker_field {
+    background-position: center top;
+    height: 22px;
+    position: absolute;
+    width: 62px;
+}
+.kcycolorpicker_field span {
+    cursor: n-resize;
+    height: 22px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 12px;
+}
+.kcycolorpicker_rgb_r {
+    background-image: url("../images/colorpicker/custom_rgb_r.png");
+    display: none;
+    left: 212px;
+    top: 52px;
+}
+.kcycolorpicker_rgb_g {
+    background-image: url("../images/colorpicker/custom_rgb_g.png");
+    display: none;
+    left: 212px;
+    top: 82px;
+}
+.kcycolorpicker_rgb_b {
+    background-image: url("../images/colorpicker/custom_rgb_b.png");
+    display: none;
+    left: 212px;
+    top: 112px;
+}
+.kcycolorpicker_hsb_h {
+    background-image: url("../images/colorpicker/custom_hsb_h.png");
+    display: none;
+    left: 282px;
+    top: 52px;
+}
+.kcycolorpicker_hsb_s {
+    background-image: url("../images/colorpicker/custom_hsb_s.png");
+    display: none;
+    left: 282px;
+    top: 82px;
+}
+.kcycolorpicker_hsb_b {
+    background-image: url("../images/colorpicker/custom_hsb_b.png");
+    display: none;
+    left: 282px;
+    top: 112px;
+}
+.kcycolorpicker_submit {
+    height: 22px;
+    left: 213px;
+    overflow: hidden;
+    position: absolute;
+    top: 142px;
+    width: 58px;
+}
+.kcycolorpicker_focus {
+    background-position: center center;
+}
+.kcycolorpicker_hex.kcycolorpicker_focus {
+    background-position: center bottom;
+}
+.kcycolorpicker_submit.kcycolorpicker_focus {
+    background-position: center bottom;
+}
+.kcycolorpicker_slider {
+    background-position: center bottom;
+}
